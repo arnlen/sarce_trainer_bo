@@ -5,11 +5,11 @@ one:
   answers: MyText
   correct_answers: MyText
   explanation: MyText
-  repository_id: 1
+  documentation_id: 1
 
 two:
   body: MyString
   answers: MyText
   correct_answers: MyText
   explanation: MyText
-  repository_id: 1
+  documentation_id: 1
