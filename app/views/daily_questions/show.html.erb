@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Question:</strong>
+  <%= @daily_question.question_id %>
+</p>
+
+<p>
+  <strong>Answer counter:</strong>
+  <%= @daily_question.answer_counter %>
+</p>
+
+<%= link_to 'Edit', edit_daily_question_path(@daily_question) %> |
+<%= link_to 'Back', daily_questions_path %>

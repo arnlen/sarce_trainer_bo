@@ -1,0 +1,2 @@
+class DailyQuestion < ApplicationRecord
+end
